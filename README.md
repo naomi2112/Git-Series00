@@ -13,3 +13,8 @@
 Apprendre Python et R me permettra de traiter mes données lors du stage, faire les graphiques et les statistiques de façon plus rapide et plus fiable.
 GitHub m'aidera à garder l'historique de mon travail et à partager mes analyses avec l'équipe du stage.
 je suis motivée à apprendre pour que mes analyses soient claires et reproductibles
+
+## Image png
+
+![image numero 2](images/PR.png)
+
